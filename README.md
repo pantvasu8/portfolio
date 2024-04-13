@@ -2,7 +2,7 @@
 
 Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
-<a href="https://pantvasundhara.netlify.app/" target="_blank">**Visit Now** 🚀</a>
+<a href="https://pantvasundhara8.netlify.app/" target="_blank">**Visit Now** 🚀</a>
 
 ## 📌 Tech Stack
 
