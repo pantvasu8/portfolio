@@ -304,7 +304,6 @@ header .navbar ul li a:hover {
   transition: all 0.2s linear;
 }
 .social-icons a:active,
-.social-icons a:focus,
 .social-icons a:hover {
   color: #fff;
   background-color: #0685da;
